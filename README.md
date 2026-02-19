@@ -138,8 +138,3 @@ Decimal Number Storage
 📈 Goal
 
 🎯 Become industry-ready for Software Engineering & Internship opportunities.
-
-🔥 Learning Rule
-
-Consistency beats motivation.Types
-* Start DSA with Arrays
