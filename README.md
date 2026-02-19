@@ -96,22 +96,50 @@ Source Code (.java)
 * WORA = Write Once Run Anywhere.
 
 ---
+✅ Day 2 — JVM Internals
 
-## 💻 Learning Goal
+* JVM, JRE & JDK
+* Class Loader System
+* Bytecode Execution
+* JIT Compiler
+* Garbage Collection
+* Platform Independence
 
-This is the beginning of my journey toward:
+✅ Day 3 — Variables & Data Types
 
-* Backend Development
-* Strong DSA skills
-* Building real-world Java applications
+* Variables & Literals
+* Primitive Data Types
+* Memory Storage
+* Data Type Ranges
+* Best Use Cases
 
----
+✅ Day 4 — Floating Point Numbers
 
-## 📅 Next Step
+Decimal Number Storage
 
-Continue with:
+* IEEE 754 Standard
+* Float (32-bit)
+* Double (64-bit)
+* Sign, Exponent & Mantissa
 
-* JDK, JRE, JVM difference
-* First Java program practice
-* Variables and Data Types
+🧠 Current Focus
+
+* Core Java Fundamentals
+* Problem Solving
+* Data Structures & Algorithms
+* Backend Development Preparation
+
+🛠 Tech Stack
+
+* Java ☕
+* Git & GitHub
+* VS Code / IntelliJ IDEA
+
+📈 Goal
+
+🎯 Become industry-ready for Software Engineering & Internship opportunities.
+
+🔥 Learning Rule
+
+Consistency beats motivation.Types
 * Start DSA with Arrays
