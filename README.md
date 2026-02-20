@@ -122,6 +122,13 @@ Decimal Number Storage
 * Double (64-bit)
 * Sign, Exponent & Mantissa
 
+✅ Day 5 - Type Casting and Type Promotion
+
+* Learned about Type of Type conversion (Implicit  and  Explicit )
+* Widening and Norrowing concept.
+* truncated conversion.
+* Type Promotion And it's rules.
+
 🧠 Current Focus
 
 * Core Java Fundamentals
