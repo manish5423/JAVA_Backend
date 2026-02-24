@@ -129,6 +129,25 @@ Decimal Number Storage
 * truncated conversion.
 * Type Promotion And it's rules.
 
+✅ Day 6 - Operators and its Internal working.
+
+* Arithmetic operators
+* Relational Operators
+* Bitwise Operators
+* Logical Operators
+* Assignment Operators
+* At the End Learn How Internally Bit manipulation happend by Bitwise Operators.
+
+✅ Day 7 - Controls Flow Statements
+
+* If else
+* if else if
+* nested if else
+* Switch cases
+* Internally hwo switch case and if else work on compiler level
+* Jump Table why form and hwo it make the switch faster and optimized then if else ladder.
+
+
 🧠 Current Focus
 
 * Core Java Fundamentals
